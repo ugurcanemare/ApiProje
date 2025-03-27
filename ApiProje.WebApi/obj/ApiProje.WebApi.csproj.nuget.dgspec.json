@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje1\\ApiProje.WebApi\\ApiProje.WebApi.csproj": {}
+    "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje\\ApiProje.WebApi\\ApiProje.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje1\\ApiProje.WebApi\\ApiProje.WebApi.csproj": {
+    "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje\\ApiProje.WebApi\\ApiProje.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje1\\ApiProje.WebApi\\ApiProje.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje\\ApiProje.WebApi\\ApiProje.WebApi.csproj",
         "projectName": "ApiProje.WebApi",
-        "projectPath": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje1\\ApiProje.WebApi\\ApiProje.WebApi.csproj",
+        "projectPath": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje\\ApiProje.WebApi\\ApiProje.WebApi.csproj",
         "packagesPath": "C:\\Users\\EMARE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje1\\ApiProje.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\ApiProje\\ApiProje.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

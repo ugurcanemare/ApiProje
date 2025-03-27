@@ -161,3 +161,6 @@ C:\Users\EMARE\OneDrive\Masaüstü\ApiProje1\ApiProje.WebApi\obj\Debug\net6.0\Ap
 C:\Users\EMARE\OneDrive\Masaüstü\ApiProje1\ApiProje.WebApi\obj\Debug\net6.0\ref\ApiProje.WebApi.dll
 C:\Users\EMARE\OneDrive\Masaüstü\ApiProje1\ApiProje.WebApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\EMARE\OneDrive\Masaüstü\ApiProje1\ApiProje.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\EMARE\OneDrive\Masaüstü\ApiProje\ApiProje.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\EMARE\OneDrive\Masaüstü\ApiProje\ApiProje.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\EMARE\OneDrive\Masaüstü\ApiProje\ApiProje.WebApi\obj\Debug\net6.0\ApiProje.WebApi.sourcelink.json
